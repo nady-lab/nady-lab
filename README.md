@@ -1,28 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm **Nadyla Barbosa**
 
-<!--
-**nady-lab/nady-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building my skills, one project (and uni assignment) at a time.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **whatever uni decides to throw at me**
+- 🌱 Learning **C, Python, HTML5/CSS/JS**
+- 📫 Reach me at **nadyla12cunha@gmail.com**
+- ⚡ Fun fact: **I genuinely think I'm hilarious — the code disagrees sometimes**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<!--
+### 🌐 Connect with me
+<p align="left">
+<a href="https://github.com/nady-lab" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nadyla-barbosa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/Nady.lab" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://discord.gg/nady.lab" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
--->
+---
 
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" width="40"/> 
+  <img src="https://skillicons.dev/icons?i=cpp" width="40"/> 
+  <img src="https://skillicons.dev/icons?i=html" width="40"/> 
+  <img src="https://skillicons.dev/icons?i=css" width="40"/> 
+  <img src="https://skillicons.dev/icons?i=js" width="40"/> 
+  <img src="https://skillicons.dev/icons?i=python" width="40"/> 
+  <img src="https://skillicons.dev/icons?i=linux" width="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="40"/>
+</p>
 
+---
+
+### 📊 Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nady-lab&show_icons=true&layout=compact" height="150"/>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nady-lab&show_icons=true" height="150"/>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nady-lab" height="150"/>
+</p>
