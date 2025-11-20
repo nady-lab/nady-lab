@@ -4,8 +4,7 @@
 
 - 🔭 Currently working on **whatever uni decides to throw at me**
 - 🌱 Learning **C, Python, HTML5/CSS/JS**
-- 📫 Reach me at **nadyla12cunha@gmail.com**
-- ⚡ Fun fact: **I genuinely think I'm hilarious — the code disagrees sometimes**
+- ⚡ Fun fact: **I think I'm funny**
 
 ---
 
@@ -34,6 +33,7 @@
 ---
 
 ### 📊 Stats
+I promise to get better 🙏🏽
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nady-lab&show_icons=true&layout=compact" height="150"/>
 </p>
