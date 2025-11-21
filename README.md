@@ -33,7 +33,7 @@
 ---
 
 ### 📊 Stats
-I promise to get better next year 🙏🏽
+I promise to get better 🙏🏽
 
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nady-lab" height="150"/>
