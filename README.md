@@ -1,4 +1,4 @@
-# Heyy, I'm **Nady B. **
+# Heyy, I'm **Nady B.**
 
 ### Building my skills, one project at a time.
 
