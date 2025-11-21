@@ -35,7 +35,7 @@
 ### 📊 Stats
 I promise to get better next year 🙏🏽
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nady-lab&show_icons=true&layout=compact" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nady-lab&show_icons=true&layout=compact" height="150"/>
 </p>
 
 <p>
