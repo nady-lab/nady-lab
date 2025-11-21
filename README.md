@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Nady B**
+# Heyy, I'm **Nady B. **
 
 ### Building my skills, one project at a time.
 
@@ -19,7 +19,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c" width="40"/> 
   <img src="https://skillicons.dev/icons?i=cpp" width="40"/> 
   <img src="https://skillicons.dev/icons?i=html" width="40"/> 
