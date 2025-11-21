@@ -34,8 +34,9 @@
 
 ### 📊 Stats
 I promise to get better next year 🙏🏽
+
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nady-lab&show_icons=true&layout=compact" height="150"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nady-lab" height="150"/>
 </p>
 
 <p>
@@ -43,5 +44,8 @@ I promise to get better next year 🙏🏽
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nady-lab" height="150"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nady-lab&show_icons=true&layout=compact" height="150"/>
 </p>
+
+
+
