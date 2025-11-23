@@ -33,15 +33,12 @@
 ---
 
 ### 📊 Stats
-I promise to get better 🙏🏽
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nady-lab" height="150"/>
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nady-lab&theme=buefy&hide_border=true&card_height=150&hide_current_streak=true" alt="GitHub Streak"/>
+  </a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nady-lab&layout=normal&langs_count=3&card_width=320&theme=buefy&hide_border=true"/>
+  </a>
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nady-lab&show_icons=true&layout=compact" height="150"/>
-</p>
-
 
 
