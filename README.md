@@ -1,9 +1,9 @@
 # Heyy, I'm **Nady B.**
 
-### Building my skills, one project at a time.
+### About me
 
 - 🔭 Currently working on **whatever uni decides to throw at me**
-- 🌱 Learning ****
+- 🌱 Learning **frontend + backend, full-stack in progress!!**
 - ⚡ Fun fact: **I think I'm funny**
 
 ---
