@@ -35,7 +35,6 @@
   <img src="https://skillicons.dev/icons?i=anaconda" width="40"/>
 </p>
 
----
 
 <!--### 📊 Stats
 
