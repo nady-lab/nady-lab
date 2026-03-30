@@ -4,7 +4,6 @@
 
 - 🔭 Currently working on **whatever uni decides to throw at me**
 - 🌱 Learning **frontend + backend, full-stack in progress!**
-- ⚡ Fun fact: **I think I'm funny**
 
 ---
 
