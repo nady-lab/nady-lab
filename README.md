@@ -20,11 +20,13 @@
 ### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" width="40"/> 
-  <img src="https://skillicons.dev/icons?i=cpp" width="40"/> 
+  <!-- <img src="https://skillicons.dev/icons?i=cpp" width="40"/> -->
   <img src="https://skillicons.dev/icons?i=html" width="40"/> 
   <img src="https://skillicons.dev/icons?i=css" width="40"/> 
   <img src="https://skillicons.dev/icons?i=js" width="40"/> 
-  <img src="https://skillicons.dev/icons?i=python" width="40"/> 
+  <img src="https://skillicons.dev/icons?i=python" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+  
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github" width="40"/>
@@ -32,6 +34,8 @@
   <img src="https://skillicons.dev/icons?i=figma" width="40"/>
   <img src="https://skillicons.dev/icons?i=codepen" width="40"/>
   <img src="https://skillicons.dev/icons?i=anaconda" width="40"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" width="40"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="40"/>
 </p>
 
 
