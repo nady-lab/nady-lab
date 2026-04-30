@@ -1,52 +1,60 @@
-# Heyy, I'm **Nady B.**
+# hey, I'm Nadyla 👋
 
-### 🕵️‍♀️ About me
-
-- 🔭 Currently working on **whatever uni decides to throw at me**
-- 🌱 Learning **frontend + backend, full-stack in progress!**
+> cs student @ TUD | probably debugging something rn | counting down to summer ☀️
 
 ---
 
-### 🌐 Connect with me
+### 🌸 a lil about me
+
+- 🎓 1st year **Computer Science** @ TU Dublin
+- 💻 primarily work in **C**, with experience in Python, HTML, CSS & JS
+- 🌱 slowly but surely working towards **full-stack development**
+- 📷 into **photography & drawing** when uni lets me breathe
+- ☀️ current mood: **desperately waiting for summer**
+- 🔭 always learning, building & figuring it out as I go!
+
+---
+
+### find me here!
+
 <p align="center">
-  <a href="https://github.com/nady-lab" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/nadyla-barbosa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/nady.lab" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://discord.gg/nady.lab" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nadyla-barbosa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/nady.lab" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### languages
+
+- 🇧🇷 Portuguese — native
+- 🇪🇸 Spanish — fluent
+- 🇬🇧 English — fluent
+- 🇰🇷 Korean — learning!
+
+---
+
+### what i work with
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" width="40"/> 
-  <!-- <img src="https://skillicons.dev/icons?i=cpp" width="40"/> -->
-  <img src="https://skillicons.dev/icons?i=html" width="40"/> 
-  <img src="https://skillicons.dev/icons?i=css" width="40"/> 
-  <img src="https://skillicons.dev/icons?i=js" width="40"/> 
-  <img src="https://skillicons.dev/icons?i=python" width="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
-  
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
+
+
+---
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github" width="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="40"/>
-  <img src="https://skillicons.dev/icons?i=codepen" width="40"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" width="40"/>
-  <img src="https://skillicons.dev/icons?i=wordpress" width="40"/>
-  <img src="https://skillicons.dev/icons?i=windows" width="40"/>
+  <i>let's build something cool together! ✨</i>
 </p>
-
-
-<!--### 📊 Stats
-
-<p align="center">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nady-lab&theme=buefy&hide_border=true&card_height=150&hide_current_streak=true" alt="GitHub Streak"/>
-  </a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nady-lab&layout=normal&langs_count=3&card_width=320&theme=buefy&hide_border=true"/>
-  </a>
-</p> -->
-
-
-
