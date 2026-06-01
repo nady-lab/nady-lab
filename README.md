@@ -6,12 +6,12 @@
 
 ### 🌸 a lil about me
 
-- 🎓 1st year **Computer Science** @ TU Dublin
-- 💻 primarily work in **C**, with experience in Python, HTML, CSS & JS
-- 🌱 slowly but surely working towards **full-stack development**
-- 📷 into **photography & drawing** when uni lets me breathe
-- ☀️ current mood: **desperately waiting for summer**
-- 🔭 always learning, building & figuring it out as I go!
+-  1st year **Computer Science** @ TU Dublin
+-  primarily work in **C**, with experience in Python, HTML, CSS & JS
+-  slowly but surely working towards **full-stack development**
+-  into **photography & drawing** when uni lets me breathe
+-  current mood: **desperately waiting for summer**
+-  always learning, building & figuring it out as I go!
 
 ---
 
