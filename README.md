@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/nadyla-barbosa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/nady.laaab" target="_blank">
+  <a href="https://instagram.com/nadylaaab" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
