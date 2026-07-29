@@ -1,21 +1,26 @@
-# hey, I'm Nadyla 👋
+# hi, i'm nadyla! 👋
 
-> cs student @ TUD | probably debugging something rn | counting down to summer ☀️
+computer science student @ **TU Dublin** who likes building things, designing things, and occasionally wondering why my code worked five minutes ago.
 
----
+currently learning my way through **software development**, with a growing interest in **full-stack development, UI/UX, and creative tech**.
 
-### 🌸 a lil about me
+when i'm not coding, you'll probably find me taking photos, drawing, learning a new language, or starting yet another project idea.
 
--  1st year **Computer Science** @ TU Dublin
--  primarily work in **C**, with experience in Python, HTML, CSS & JS
--  slowly but surely working towards **full-stack development**
--  into **photography & drawing** when uni lets me breathe
--  current mood: **desperately waiting for summer**
--  always learning, building & figuring it out as I go!
+### a few things about me
 
----
+🇧🇷 portuguese — native  
+🇪🇸 spanish — fluent  
+🇬🇧 english — fluent  
+🇰🇷 korean — learning!
 
-### find me here!
+### what i'm up to
+
+💻 learning & building with **C, Python, HTML, CSS & JavaScript**  
+🎨 exploring **UI/UX, Figma & web design**  
+📱 slowly turning ideas into actual projects  
+🌱 figuring out what corner of tech i want to make my own
+
+### say hi!
 
 <p align="center">
   <a href="https://linkedin.com/in/nadyla-barbosa" target="_blank">
@@ -26,35 +31,6 @@
   </a>
 </p>
 
----
-
-### languages
-
-- 🇧🇷 Portuguese — native
-- 🇪🇸 Spanish — fluent
-- 🇬🇧 English — fluent
-- 🇰🇷 Korean — learning!
-
----
-
-### what i work with
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
-
----
-
-<p align="center">
-  <i>let's build something cool together! ✨</i>
+  <i>still learning, still building, still figuring it out ✨</i>
 </p>
