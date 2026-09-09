@@ -1,27 +1,60 @@
-## <img src="./pics/star.svg" height=30 style="vertical-align: middle"/> &nbsp;about me
-<img src="./pics/dino.svg" height="26" style="vertical-align: middle"/> &nbsp; computer science @ TU Dublin </br>
-<img src="./pics/sun.svg" height="26" style="vertical-align: middle"/> &nbsp; originally from brazil, currently based in ireland </br>
+# hey, I'm Nadyla 👋
 
-## things i've built
+> cs student @ TUD | probably debugging something rn
 
-**aula** is a flask + sqlite app i built for fáilte isteach, the volunteer org where i teach conversational english. it handles class scheduling, rsvps, attendance, and announcements for coordinators and students, and it's designed to eventually be a multilingual pwa so it works for people who aren't fluent in english yet.
+---
 
-**dev.uicr.org** is where i do ongoing volunteer web development, mostly wordpress and php. i built out the member countries page from scratch (custom post type, continent-grouped flag grid, the whole thing), and i try to keep every solution simple enough that non-technical staff can maintain it after i'm gone.
+### 🌸 a lil about me
 
-i also freelance on the side, small wordpress builds, landing pages, the occasional "please just fix this" job.
+-  1st year **Computer Science** @ TU Dublin
+-  primarily work in **C**, with experience in Python, HTML, CSS & JS
+-  slowly but surely working towards **full-stack development**
+-  into **photography & drawing** when uni lets me breathe
+-  current mood: **desperately waiting for summer**
+-  always learning, building & figuring it out as I go!
 
-## right now
+---
 
-i'm a notion campus leader and a peer mentor at TU Dublin starting this september, on top of the fáilte isteach volunteering. busy semester ahead.
+### find me here!
 
-## what i work with
+<p align="center">
+  <a href="https://linkedin.com/in/nadyla-barbosa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/nadylaaab" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-python, c, javascript, html/css, flask, wordpress, php, sql. still learning, always will be.
+---
 
-## outside of code
+### languages
 
-photography, drawing, film. i'm slowly getting into hardware and electronics, and trying to build up my financial literacy too because nobody teaches you that in school.
+- 🇧🇷 Portuguese — native
+- 🇪🇸 Spanish — fluent
+- 🇬🇧 English — fluent
+- 🇰🇷 Korean — learning!
 
-## languages
+---
 
-portuguese (native), spanish, english, and i'm learning korean.
+### what i work with
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+
+---
+
+<p align="center">
+  <i>let's build something cool together! ✨</i>
+</p>
