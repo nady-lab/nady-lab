@@ -1,6 +1,6 @@
 ## <img src="./pics/star.svg" height=30 style="vertical-align: middle"/> &nbsp;about me
-<img src="./pics/dino.svg" height="26" style="vertical-align: middle"/> &nbsp; computer science @ TU Dublin </n>
-<img src="./pics/sun.svg" height="26" style="vertical-align: middle"/> &nbsp; originally from brazil, currently based in ireland </n>
+<img src="./pics/dino.svg" height="26" style="vertical-align: middle"/> &nbsp; computer science @ TU Dublin </br>
+<img src="./pics/sun.svg" height="26" style="vertical-align: middle"/> &nbsp; originally from brazil, currently based in ireland </br>
 
 ## things i've built
 
