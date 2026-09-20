@@ -3,7 +3,7 @@
 <img src="./pics/sun.svg" height="20" style="vertical-align: top"> Brazilian based in Ireland<br/>
 <img src="./pics/world.svg" height="20" style="vertical-align: middle"> fluent in 3 languages, currently learning the 4th (korean!)
 
-## <img src="./pics/star.svg" height="30" style="vertical-align: middle"> what i'm making
+## <img src="./pics/folder.svg" height="30" style="vertical-align: middle"> what i'm making
 
 **[microprocessor project](https://github.com/nady-lab/microprocessorProject)**: my first time ever wiring a microcontroller, and somehow my favorite part of the course. a little bee game where i wrote its movement, drew the sprites, added sound and got a taste of hardware<br/>
 
