@@ -1,27 +1,18 @@
-## <img src="./pics/star.svg" height=30 style="vertical-align: middle"/> &nbsp;about me
-<img src="./pics/dino.svg" height="26" style="vertical-align: middle"/> &nbsp; computer science @ TU Dublin </n>
-<img src="./pics/sun.svg" height="26" style="vertical-align: middle"/> &nbsp; originally from brazil, currently based in ireland </n>
+## <img src="./pics/star.svg" height="30" style="vertical-align: middle"> a lil about me
+<img src="./pics/dino.svg" height="20" style="vertical-align: middle"> Computer Science @ TU Dublin <br/>
+<img src="./pics/sun.svg" height="20" style="vertical-align: top"> Brazilian based in Ireland<br/>
+<img src="./pics/world.svg" height="20" style="vertical-align: middle"> fluent in 3 languages, currently learning the 4th (korean!)
 
-## things i've built
+## <img src="./pics/star.svg" height="30" style="vertical-align: middle"> what i'm making
 
-**aula** is a flask + sqlite app i built for fáilte isteach, the volunteer org where i teach conversational english. it handles class scheduling, rsvps, attendance, and announcements for coordinators and students, and it's designed to eventually be a multilingual pwa so it works for people who aren't fluent in english yet.
+**[microprocessor project](https://github.com/nady-lab/microprocessorProject)**: my first time ever wiring a microcontroller, and somehow my favorite part of the course. a little bee game where i wrote its movement, drew the sprites, added sound and got a taste of hardware<br/>
 
-**dev.uicr.org** is where i do ongoing volunteer web development, mostly wordpress and php. i built out the member countries page from scratch (custom post type, continent-grouped flag grid, the whole thing), and i try to keep every solution simple enough that non-technical staff can maintain it after i'm gone.
+**aula**: a class app i'm building for the english classes i volunteer-teach. flask + sqlite, very much a work in progress (hopefully it will be making its appearance to the world soon!!)<br/>
 
-i also freelance on the side, small wordpress builds, landing pages, the occasional "please just fix this" job.
+## <img src="./pics/heart.svg" height="30" style="vertical-align: middle"> find me here
 
-## right now
+let's build something cool together!!
 
-i'm a notion campus leader and a peer mentor at TU Dublin starting this september, on top of the fáilte isteach volunteering. busy semester ahead.
+<img src="./pics/instagram.svg" height="20" style="vertical-align: middle"> instagram: [@nadylaaab](https://instagram.com/nadylaaab)<a></a><br/>
 
-## what i work with
-
-python, c, javascript, html/css, flask, wordpress, php, sql. still learning, always will be.
-
-## outside of code
-
-photography, drawing, film. i'm slowly getting into hardware and electronics, and trying to build up my financial literacy too because nobody teaches you that in school.
-
-## languages
-
-portuguese (native), spanish, english, and i'm learning korean.
+<img src="./pics/linkedin.svg" height="20" style="vertical-align: middle"> linkedin: [nadyla barbosa](https://www.linkedin.com/in/nadyla-barbosa)<a></a><br/>
