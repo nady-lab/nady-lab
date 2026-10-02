@@ -5,7 +5,7 @@
 
 ## <img src="./pics/folder.png" height="30" style="vertical-align: middle"> what i'm making
 
-**[microprocessor project](https://github.com/nady-lab/microprocessorProject)**: my first time ever wiring a microcontroller, and somehow my favorite part of the course. a little bee game where i wrote its movement, drew the sprites, added sound and got a taste of hardware<br/>
+**[buzz rush](https://github.com/nady-lab/microprocessorProject)**: my first time ever wiring a microcontroller, and somehow my favorite part of the course. a little bee game where i wrote its movement, drew the sprites, added sound and got a taste of hardware<br/>
 
 **aula**: a class app i'm building for the english classes i volunteer-teach. flask + sqlite, very much a work in progress (hopefully it will be making its appearance to the world soon!!)<br/>
 
