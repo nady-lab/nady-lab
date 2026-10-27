@@ -12,7 +12,6 @@
 ## <img src="./pics/heart.png" height="30" style="vertical-align: middle"> find me here
 
 let's build something cool together!!
-
-<img src="./pics/insta.png" height="20" style="vertical-align: middle"> instagram: [@nadylaaab](https://instagram.com/nadylaaab)<a></a><br/>
-
 <img src="./pics/linkedin.png" height="20" style="vertical-align: middle"> linkedin: [nadyla barbosa](https://www.linkedin.com/in/nadyla-barbosa)<a></a><br/>
+<img src="./pics/email.png" height="20" style="vertical-align: middle"> mail: [nadyla12cunha@gmail.com](mailto:nadyla12cunha@gmail.com)<a></a><br/>
+<img src="./pics/insta.png" height="20" style="vertical-align: middle"> instagram: [@nadylaaab](https://instagram.com/nadylaaab)<a></a><br/>
