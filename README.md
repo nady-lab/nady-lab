@@ -1,7 +1,7 @@
 ## <img src="./pics/star.png" height="30" style="vertical-align: middle"> a lil about me
 <img src="./pics/dino.png" height="20" style="vertical-align: middle"> Computer Science @ TU Dublin <br/>
 <img src="./pics/sun.png" height="20" style="vertical-align: top"> Brazilian based in Ireland<br/>
-<img src="./pics/world.png" height="20" style="vertical-align: middle"> fluent in 3 languages, currently learning the 4th (korean!)
+<img src="./pics/world.png" height="20" style="vertical-align: middle"> fluent in English, Portuguese & Spanish, currently learning Korean!!
 
 ## <img src="./pics/folder.png" height="30" style="vertical-align: middle"> what i'm making
 
